@@ -1104,12 +1104,21 @@ Steps to contribute in this repository
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/Prithvipatel007>
+            <img src=https://avatars.githubusercontent.com/u/40318836?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Prithvi Patel/>
+            <br />
+            <sub style="font-size:14px"><b>Prithvi Patel</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/priyanshusingh9694>
             <img src=https://avatars.githubusercontent.com/u/66723839?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Priyanshu Singh/>
             <br />
             <sub style="font-size:14px"><b>Priyanshu Singh</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/riyabansal1036>
             <img src=https://avatars.githubusercontent.com/u/89902122?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=RIYA BANSAL/>
@@ -1117,8 +1126,6 @@ Steps to contribute in this repository
             <sub style="font-size:14px"><b>RIYA BANSAL</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/17rashi>
             <img src=https://avatars.githubusercontent.com/u/87816619?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Rashi Shukla/>
@@ -1154,6 +1161,8 @@ Steps to contribute in this repository
             <sub style="font-size:14px"><b>Rohit Patil</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/sachin-404>
             <img src=https://avatars.githubusercontent.com/u/96824004?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Sachin Kant/>
@@ -1161,8 +1170,6 @@ Steps to contribute in this repository
             <sub style="font-size:14px"><b>Sachin Kant</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/saksham0103>
             <img src=https://avatars.githubusercontent.com/u/77858634?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Saksham Gupta/>
@@ -1198,6 +1205,8 @@ Steps to contribute in this repository
             <sub style="font-size:14px"><b>Shubham Jain</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/Sitzz23>
             <img src=https://avatars.githubusercontent.com/u/71924449?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Sitanshu Pokalwar/>
@@ -1205,8 +1214,6 @@ Steps to contribute in this repository
             <sub style="font-size:14px"><b>Sitanshu Pokalwar</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/sohamdata>
             <img src=https://avatars.githubusercontent.com/u/78294692?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Soham Datta/>
@@ -1242,6 +1249,8 @@ Steps to contribute in this repository
             <sub style="font-size:14px"><b>Sumit Kumar Rai</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/tamannasgh>
             <img src=https://avatars.githubusercontent.com/u/91528741?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Tamanna Sharma/>
@@ -1249,8 +1258,6 @@ Steps to contribute in this repository
             <sub style="font-size:14px"><b>Tamanna Sharma</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/Tara-Choudhary>
             <img src=https://avatars.githubusercontent.com/u/103630608?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Tara Choudhary/>
@@ -1286,6 +1293,8 @@ Steps to contribute in this repository
             <sub style="font-size:14px"><b>Vishesh Gupta</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/Yash-Desai-1>
             <img src=https://avatars.githubusercontent.com/u/109528026?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Yash-Desai-1/>
@@ -1293,8 +1302,6 @@ Steps to contribute in this repository
             <sub style="font-size:14px"><b>Yash-Desai-1</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/mihir224>
             <img src=https://avatars.githubusercontent.com/u/77497660?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Mihir Saini/>
@@ -1330,6 +1337,8 @@ Steps to contribute in this repository
             <sub style="font-size:14px"><b>Arpit Ghura</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/Dhanush-2605>
             <img src=https://avatars.githubusercontent.com/u/90703523?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Dhanush/>
@@ -1337,8 +1346,6 @@ Steps to contribute in this repository
             <sub style="font-size:14px"><b>Dhanush</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/dollykumari9798>
             <img src=https://avatars.githubusercontent.com/u/89187472?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=dollykumari9798/>
@@ -1374,6 +1381,8 @@ Steps to contribute in this repository
             <sub style="font-size:14px"><b>imDatt777</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/kshitij9896>
             <img src=https://avatars.githubusercontent.com/u/63043352?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=@thisiskshitijbansod/>
@@ -1381,8 +1390,6 @@ Steps to contribute in this repository
             <sub style="font-size:14px"><b>@thisiskshitijbansod</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/mayankmohak>
             <img src=https://avatars.githubusercontent.com/u/63801800?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Mayank Mohak/>
@@ -1418,6 +1425,8 @@ Steps to contribute in this repository
             <sub style="font-size:14px"><b>Rupesh Piwal</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/saka015>
             <img src=https://avatars.githubusercontent.com/u/89720132?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Kamal Nayan/>
@@ -1425,8 +1434,6 @@ Steps to contribute in this repository
             <sub style="font-size:14px"><b>Kamal Nayan</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/sameer-19>
             <img src=https://avatars.githubusercontent.com/u/63365261?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=sameer-19/>
